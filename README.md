@@ -1,1 +1,1 @@
-![Your Portfolio](./carbon1.png)
+![Your Portfolio](./carbon2.png)
