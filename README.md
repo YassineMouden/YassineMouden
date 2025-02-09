@@ -1,1 +1,1 @@
-![Your Portfolio](./Terminal.png)
+![Your Portfolio](./profile.png)
